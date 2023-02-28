@@ -1,11 +1,11 @@
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Cristian Acosta</h1>
 <h3 align="center">A passionate Full-Stack web developer located in Argentina.</h3>
 
 - 🌱 I’m currently learning **Laravel,Java,C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Acosta01-dev](Acosta01-dev)
+- 👨‍💻 All of my projects are available at [Acosta01-dev]([Acosta01-dev](https://github.com/Acosta01-dev))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

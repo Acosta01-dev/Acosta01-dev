@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel,Java,C#**
 
-- 👨‍💻 All of my projects are available at [Acosta01-dev]([Acosta01-dev](https://github.com/Acosta01-dev))
+- 👨‍💻 All of my projects are available at [Acosta01-dev](https://github.com/Acosta01-dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
